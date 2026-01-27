@@ -1,0 +1,5 @@
+As a customer, I want to be able to look at examples of the tattoo artists work so that I can decide on which tattoo artist to use. 
+
+As a customer, I want to be able to email a specific tattoo artist so that I can reach out and plan a date to come to the store to get a tattoo. . 
+
+As a customer, I want to see examples of pricing and hours spent on tattoo projects so that I can budget accordingly. 
