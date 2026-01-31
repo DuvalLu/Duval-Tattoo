@@ -12,7 +12,7 @@
     />
     <link rel="stylesheet" href="CSS/style.css" />
   </head>
-  <header>
+    <header>
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
       <div class="container-fluid">
         <a class="navbar-brand" href="#">Duval Tattoo</a>
@@ -44,12 +44,30 @@
     </nav>
   </header>
   <body>
-    <li>Standard rate for black and white tattoo: $150.00 usd per hour.</li>
-    <li>Standard rate for color tattoo: $200.00 usd per hour.</li>
-    <li>Standard rate for cover ups: $250.00 usd per hour.</li>
-    <li>
-      Rates are subject to change with added complexity and break times will
-      incur no charge.
-    </li>
+    <div class="input-group mb-3">
+      <input
+        type="text"
+        class="form-control"
+        placeholder="Enter E-Mail Address"
+        aria-label="Customers E-Mail"
+        aria-describedby="basic-addon2"
+      />
+      <span class="input-group-text" id="basic-addon2">@example.com</span>
+    </div>
+    </div>
+
+    <div class="input-group mb-3">
+      <span class="input-group-text">Enter Requested Artist's Name</span>
+      <input
+        type="text"
+        class="form-control"
+        aria-label="Artist's Name"
+      />
+      <span class="input-group-text">Ralph Royals, Angel Hernandez, Hannah Rowley</span>
+    </div>
+     <div class="input-group">
+      <span class="input-group-text">Description of tattoo wanted</span>
+      <textarea class="form-control" aria-label="Tattoo Description"></textarea>
+    </div>
   </body>
 </html>
