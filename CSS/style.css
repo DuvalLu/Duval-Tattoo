@@ -8,13 +8,30 @@ h2 {
   text-align: center;
   font-size: large;
 }
+
+h3 {
+  text-align: center;
+  font-size: large;
+  text-decoration: underline;
+  font-style: italic;
+  font-weight: bolder;
+}
 ul {
   list-style-type: none;
 }
 img {
   width: auto;
-  height: 400px;
+  height: 350px;
   border-radius: 10%;
+}
+
+.btn-outline-success {
+  float: left;
+  display: inline-block;
+}
+
+.center-container {
+  text-align: center;
 }
 
 footer {
