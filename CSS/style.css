@@ -3,7 +3,7 @@
 }
 
 .bg-photo-main {
-  background-image: url(/IMAGES/bgtattoogirl.jpg);
+  background-image: url(/IMAGES/tattshop.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -13,6 +13,7 @@
   padding-top: 1%;
   padding-bottom: 1%;
   display: inline-flexbox;
+  font-weight: bolder;
 }
 
 .bg-photo-second {
