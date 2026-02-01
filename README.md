@@ -16,5 +16,6 @@
     2.An option to upload photos of yourself and current tattoos if cover ups needed.
     3.A sign up option to be contacted if cancellations occur and it is possible to come in sooner than original scheduled date.
     4.Add logos of all partner products used.
+    5.Have contact me buttons auto fill for the specific artist chosen.
 
 ## HOST LINK TO GITHUB REPOSITORY: https://github.com/DuvalLu/Duval-Tattoo.git
