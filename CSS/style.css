@@ -35,6 +35,9 @@
   margin: 50px;
   background-color: rgba(255, 255, 255, 0.5);
   border-radius: 25px;
+  margin-top: 0;
+  margin-bottom: 0%;
+  padding-bottom: 5%;
 }
 
 h1 {
@@ -70,6 +73,7 @@ img {
 footer {
   text-align: center;
   font-size: medium;
-  bottom: 0%;
   background-color: gray;
+  margin-top: 0%;
+  margin-bottom: 0%;
 }
