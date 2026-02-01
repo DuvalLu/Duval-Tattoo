@@ -1,22 +1,50 @@
 * {
-  background-color: lightgrey;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
-h1,
-h2 {
-  text-align: center;
-  font-size: large;
+.bg-photo-main {
+  background-image: url(/IMAGES/bgtattoogirl.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  margin: 0%;
+  color: rgb(4c, 2b, 36);
 }
 
-h3 {
+.bg-photo-second {
+  background-image: url(/IMAGES/cleanBWbg.avif);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  margin: 0%;
+  color: rgb(4c, 2b, 36);
+}
+
+.bg-photo-main > .shield {
+  margin: 50px;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 25px;
+}
+
+.bg-photo-second > .shield {
+  margin: 50px;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 25px;
+}
+
+h1 {
+  text-align: center;
+}
+p {
   text-align: center;
   font-size: large;
   text-decoration: underline;
   font-style: italic;
   font-weight: bolder;
 }
-ul {
+li {
   list-style-type: none;
 }
 img {
@@ -27,11 +55,6 @@ img {
 
 .btn-outline-success {
   float: left;
-  display: inline-block;
-}
-
-.center-container {
-  text-align: center;
 }
 
 footer {
