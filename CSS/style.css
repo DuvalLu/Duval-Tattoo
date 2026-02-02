@@ -3,7 +3,7 @@
 }
 
 .bg-photo-main {
-  background-image: url(/IMAGES/tattshop.jpg);
+  background-image: url(../IMAGES/tattshop.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -17,7 +17,7 @@
 }
 
 .bg-photo-second {
-  background-image: url(/IMAGES/cleanBWbg.avif);
+  background-image: url("../IMAGES/cleanBWbg.avif");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -44,7 +44,7 @@
 }
 
 .bg-photo-pricing {
-  background-image: url(/IMAGES/cleanBWbg.avif);
+  background-image: url(../IMAGES/cleanBWbg.avif);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
