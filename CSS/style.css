@@ -17,7 +17,7 @@
 }
 
 .bg-photo-second {
-  background-image: url("../IMAGES/cleanBWbg.avif");
+  background-image: url(../IMAGES/cleanBWbg.avif);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
